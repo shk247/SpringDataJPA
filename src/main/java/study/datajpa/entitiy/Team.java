@@ -1,4 +1,4 @@
-package stusy.datajpa.entitiy;
+package study.datajpa.entitiy;
 
 import lombok.*;
 
